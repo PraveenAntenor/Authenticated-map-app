@@ -1,6 +1,6 @@
 # 🗺️ Authenticated Map App with Google Maps & Firebase
 
-This project is a secure, React-based web application that allows users to log in with Google, interact with a live map, select two points, and draw a route between them using the Google Directions API. It’s built as part of an assignment for ProductLabs and showcases key skills in full-stack development, user authentication, and map-based APIs.
+This project is a secure, React-based web application that allows users to log in with Google, interact with a live map, select two points, and draw a route between them using the Google Directions API. key skills in full-stack development, user authentication, and map-based APIs.
 
 ## 🔥 Features
 
@@ -69,7 +69,7 @@ REACT_APP_GOOGLE_MAPS_API_KEY=your_google_maps_api_key
 npm start
 ```
 
-App will be available at: [http://localhost:3000](http://localhost:3000)
+
 
 ## 🔑 Firebase Setup
 
@@ -99,20 +99,14 @@ App will be available at: [http://localhost:3000](http://localhost:3000)
 - Click “Draw Route” to show the path, distance, and duration
 - Use “Reset” to clear points, “Logout” to sign out
 
-## 📷 Screenshots *(Optional)*
 
-| Login Page              | Route Drawn on Map          |
-|-------------------------|-----------------------------|
-| ![Login](screenshots/login.png) | ![Map](screenshots/map.png) |
-
-> You can add your own screenshots under `/public/screenshots/`
 
 ## 👨‍💻 Developer
 
 **Praveen**  
 B.Tech – Artificial Intelligence & Machine Learning  
 📍 UVCE, Bangalore  
-📫 Email: praveen.your.email@example.com *(replace with real)*  
+📫 Email: praveenantenor@gmail.com  
 🎯 Developed for: **ProductLabs Company – Internship Assignment (June 2025)**
 
 ## 📜 License
