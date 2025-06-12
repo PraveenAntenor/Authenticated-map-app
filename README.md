@@ -22,22 +22,6 @@ This project is a secure, React-based web application that allows users to log i
 - **dotenv** – Environment variable handling
 - **@react-google-maps/api** – Google Maps wrapper for React
 
-## 📁 Project Structure
-
-```
-Authenticated-map-app/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   └── MapPage.js
-│   ├── firebase.js
-│   ├── App.js
-│   └── index.js
-├── .env
-├── package.json
-└── README.md
-```
 
 ## 📦 Installation
 
@@ -62,7 +46,6 @@ REACT_APP_FIREBASE_PROJECT_ID=your_project_id
 REACT_APP_GOOGLE_MAPS_API_KEY=your_google_maps_api_key
 ```
 
-> ⚠️ Make sure to restart your dev server after creating the `.env` file.
 
 ### 4. Start the application
 ```bash
