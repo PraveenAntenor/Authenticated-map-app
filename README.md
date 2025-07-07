@@ -90,8 +90,4 @@ npm start
 B.Tech – Artificial Intelligence & Machine Learning  
 📍 UVCE, Bangalore  
 📫 Email: praveenantenor@gmail.com  
-🎯 Developed for: **ProductLabs Company – Internship Assignment (June 2025)**
 
-## 📜 License
-
-This project is licensed for educational and demo purposes.
